@@ -6,7 +6,7 @@
      border-radius: 50%;
 
      border: 2px solid #ffffff ;
-     position:absolute; top:100px;
+     position:absolute; top:190px;
      position:absolute; left:40%;
 }
 .circulo2 {
@@ -17,8 +17,8 @@
      border-radius: 50%;
 
      border: 2px solid #ffffff ;
-     position:absolute; top:110px;
-     position:absolute; left:7%;
+     position:absolute; top:207px;
+     position:absolute; left:4%;
 }
 
 .circulo3 {
@@ -28,14 +28,14 @@
      -webkit-border-radius: 50%;
      border-radius: 50%;
      border: 2px solid #ffffff ;
-     position:absolute; top:110px;
-     position:absolute; left:78%;
+     position:absolute; top:207px;
+     position:absolute; left:79%;
 }
 
 .semi-circulo-2 {
      width: 85px;
      height: 170px;
-     position:absolute; top:60px;
+     position:absolute; top:155px;
      position:absolute; left:0%;
 
      border: 2px solid #ffffff ;
@@ -46,7 +46,7 @@
 .semi-circulo-3 {
      width: 85px;
      height: 170px;
-     position:absolute; top:60px;
+     position:absolute; top:155px;
      position:absolute; left:82%;
 
      border: 2px solid #ffffff ;
@@ -56,18 +56,18 @@
 }
 
 .rectangulo1 {
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
     position:absolute; top:0px;
     position:absolute; left:0%;
     background: #FE642E ;
     border: 1px solid #ffffff ;
 }
-.rectangulo1:nth-of-type(2){
-    width: 300px;
-    height: 300px;
+.rectangulo2 {
+    width: 500px;
+    height: 500px;
     position:absolute; top:0px;
-    position:absolute; left:48%;
+    position:absolute; left:45%;
     background: #FE642E ;
     border: 1px solid #ffffff ;
 }
@@ -79,7 +79,7 @@
 	border-top: 18px solid transparent;
 	position: relative;
 	left: -6px;
-	top: 91px;
+	top: 188px;
 	height: 60px;
 
 }
@@ -89,8 +89,8 @@
 	border-bottom: 20px solid transparent;
 	border-top: 18px solid transparent;
 	position: relative;
-	right: 15px;
-	top: -7px;
+	right: 104px;
+	top: 91px;
 	height: 60px;
 
 }
